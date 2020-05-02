@@ -3,6 +3,10 @@
 [データサイエンスのための統計学入門-予測、分類、統計モデリング、統計的機械学習とRプログラミング](https://www.oreilly.co.jp/books/9784873118284/)
 （Peter Bruce、Andrew Bruce　著、黒川 利明　訳、大橋 真也　技術監修）の MATLAB コード例をまとめるレポジトリです。
 
+もともとの R コードはこちら（[GitHub](https://github.com/andrewgbruce/statistics-for-data-scientists)）にあり、
+データも著者によって [Google Drive](https://drive.google.com/drive/folders/0B98qpkK5EJemYnJ1ajA1ZVJwMzg) 
+もしくは [Dropbox](https://www.dropbox.com/sh/clb5aiswr7ar0ci/AABBNwTcTNey2ipoSw_kH5gra?dl=0) から入手可能です。
+
 手を動かして理解を深められますように。
 
 
@@ -13,7 +17,7 @@
 
 |  Capter  |  Owner  | Memo/Status |
 | ---- | ---- | ---- |
-| [1章　探索的データ分析](Chapter1\Chapter1_ExploratoryDataAnalysis.md)　| minoue-xx | Done |
+| [1章　探索的データ分析](Chapter1/Chapter1_ExploratoryDataAnalysis.md)　| minoue-xx | Done |
 | 2章　データと標本の分布　| TBD | |
 | 3章　統計実験と有意性検定　| TBD | |
 | 4章　回帰と予測　| TBD | |
