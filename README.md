@@ -20,8 +20,8 @@
 | [1章　探索的データ分析](Chapter1/Chapter1_ExploratoryDataAnalysis.md)　| minoue-xx | Completed |
 | [2章　データと標本の分布](Chapter2/Chapter2_DataandSamplingDistributions.md)　| hiroquay | Completed |
 | 3章　統計実験と有意性検定　| Tajima | in progress |
-| 4章　回帰と予測　| Hilobay | started |
-| 5章　分類　| hiroquay | in progress |
+| [4章　回帰と予測](Chapter4/Chapter4.md)　| Hilobay | started |
+| [5章　分類](Chapter5/Chapter5_Classification.md)　| hiroquay | in progress |
 | 6章　統計的機械学習　| TBD | | 
 | 7章　教師なし学習　| TBD | | 
 
